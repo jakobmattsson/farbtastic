@@ -1,0 +1,19 @@
+{
+  "name": "jakobmattsson-farbtastic",
+  "version": "1.3.0",
+  "description": "Farbtastic: jQuery color picker plug-in",
+  "main": [
+    "./farbtastic.js", "./farbtastic.css"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.2"
+  },
+  "author": {
+    "name": "Steven Wittens",
+    "web": "http://acko.net"
+  },
+  "keywords": [
+    "jquery",
+    "color-picker"
+  ]
+}
